@@ -49,5 +49,11 @@ List of articles, blog-posts, libraries and tools usefull when using a MCP2515 C
 <a name="Tools"></a>
 ## CAN Tools
 
-[CAN utils](https://github.com/linux-can/can-utils) Also available on debian and ubuntu through package-managers or deb file.
+[CAN utils](https://github.com/linux-can/can-utils) Also available on debian and ubuntu through package-managers or [deb package](https://packages.debian.org/sid/can-utils).
+
+[CANard: Python library for CAN bus communication](https://pypi.org/project/CANard/)
+
+Wireshark
+
+
 
