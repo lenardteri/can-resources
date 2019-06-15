@@ -12,6 +12,8 @@
 
 [CAN Tools](#Tools)
 
+[Lectures and Presentations](#Pres)
+
 <a name="Overview"></a>
 ## Overview
 
@@ -55,5 +57,10 @@ List of articles, blog-posts, libraries and tools usefull when using a MCP2515 C
 
 Wireshark
 
+
+<a name="Pres"></a>
+## Lectures and Presentations
+
+[NorthSec 2015 - Eric Evenchick - Hopping on the CAN bus](https://www.youtube.com/watch?v=eoQO5TVKgSE)
 
 
