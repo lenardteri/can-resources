@@ -35,6 +35,7 @@ List of articles, blog-posts, libraries and tools usefull when using a MCP2515 C
 
 [https://www.youtube.com/watch?v=3GmVrIWT3Bo](https://www.youtube.com/watch?v=3GmVrIWT3Bo)
 
+
 [Arduino MCP2515 CAN Bus Interface Tutorial](https://www.electronicshub.org/arduino-mcp2515-can-bus-tutorial/)
 
 <a name="RaspberryPi"></a>
@@ -63,4 +64,6 @@ Wireshark
 
 [NorthSec 2015 - Eric Evenchick - Hopping on the CAN bus](https://www.youtube.com/watch?v=eoQO5TVKgSE)
 
+[Eric Evenchick - CANtact: An Open Tool for Automotive Exploitation](https://www.youtube.com/watch?v=77PXh8mqH98)
 
+[Roderick Currie - Hacking the CAN Bus: Presentation](https://www.youtube.com/watch?v=WjncMlpX85I)
