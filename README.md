@@ -1,4 +1,4 @@
-# MCP2515 CAN Bus Interface resources
+# CAN Bus resources
 
 ## Table of content
 
