@@ -38,6 +38,8 @@ List of articles, blog-posts, libraries and tools usefull when using a MCP2515 C
 
 [Arduino MCP2515 CAN Bus Interface Tutorial](https://www.electronicshub.org/arduino-mcp2515-can-bus-tutorial/)
 
+[Wiring Arduino to MCP2515](https://cdn.instructables.com/FUY/QEZH/J2UPDZQZ/FUYQEZHJ2UPDZQZ.LARGE.jpg)
+
 <a name="RaspberryPi"></a>
 ## MCP2515 to RaspberryPi
 
