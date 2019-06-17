@@ -14,6 +14,8 @@
 
 [Lectures and Presentations](#Pres)
 
+[Articles and Documents](#Docs)
+
 <a name="Overview"></a>
 ## Overview
 
@@ -71,3 +73,7 @@ Wireshark
 [Roderick Currie - Hacking the CAN Bus: Presentation](https://www.youtube.com/watch?v=WjncMlpX85I)
 
 [DEF CON 26 CAR HACKING VILLAGE - Ben - CANT](https://www.youtube.com/watch?v=TRn_Rz2JIYQ)
+
+<a name="Docs"></a>
+## Articles and Documents
+[Introduction to the Controller Area Network (CAN)](http://www.ti.com/lit/an/sloa101b/sloa101b.pdf)
