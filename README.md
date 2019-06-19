@@ -42,6 +42,26 @@ List of articles, blog-posts, libraries and tools usefull when using a MCP2515 C
 
 [Wiring Arduino to MCP2515](https://cdn.instructables.com/FUY/QEZH/J2UPDZQZ/FUYQEZHJ2UPDZQZ.LARGE.jpg)
 
+### Wiring Arduino UNO to MCP2515
+
+| NAME | UNO | MCP2515 |
+|:----:|:---:|:-------:|
+|  INT |  2  |   INT   |
+| MISO |  12 |    SO   |
+| MOSI |  11 |    SI   |
+|  SCK |  13 |   SCK   |
+|  SS  |  10 |    CS   |
+
+### Wiring Arduino MEGA2560 to MCP2515
+
+| NAME | MEGA2560 | MCP2515 |
+|:----:|:--------:|:-------:|
+|  INT |     2    |   INT   |
+| MISO |    50    |    SO   |
+| MOSI |    51    |    SI   |
+|  SCK |    52    |   SCK   |
+|  SS  |    53    |    CS   |
+
 <a name="RaspberryPi"></a>
 ## MCP2515 to RaspberryPi
 
