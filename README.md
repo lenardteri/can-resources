@@ -88,6 +88,8 @@ Wireshark
 
 [Presentation: Analysis and Test of CAN Applications](https://indico.esa.int/event/162/contributions/1184/attachments/1162/1375/Analysis_and_Test_of_CAN_Applications.pdf)
 
+[Example: Getting started with CANoe ISO11783](https://assets.vector.com/cms/content/know-how/_application-notes/AN-ION-1-4200_Getting_Started_With_CANoe_ISO11783.pdf)
+
 <a name="Canoe"></a>
 ## Lectures and Presentations
 
