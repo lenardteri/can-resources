@@ -12,6 +12,8 @@
 
 [CAN Tools](#Tools)
 
+[Vector CANoe simulator](#Canoe)
+
 [Lectures and Presentations](#Pres)
 
 [Articles and Documents](#Docs)
@@ -36,7 +38,6 @@ List of articles, blog-posts, libraries and tools usefull when using a MCP2515 C
 [SHOP LINK: Arduino MEGA 2560 (ATmega2560 + CH340)](https://www.optimusdigital.ro/ro/compatibile-cu-arduino-mega/471-placa-de-dezvoltare-compatibila-cu-arduino-mega-2560-atmega2560-ch340.html)
 
 [https://www.youtube.com/watch?v=3GmVrIWT3Bo](https://www.youtube.com/watch?v=3GmVrIWT3Bo)
-
 
 [Arduino MCP2515 CAN Bus Interface Tutorial](https://www.electronicshub.org/arduino-mcp2515-can-bus-tutorial/)
 
@@ -82,8 +83,12 @@ List of articles, blog-posts, libraries and tools usefull when using a MCP2515 C
 
 Wireshark
 
-
 <a name="Pres"></a>
+## Vector CANoe simulator
+
+[Presentation: Analysis and Test of CAN Applications](https://indico.esa.int/event/162/contributions/1184/attachments/1162/1375/Analysis_and_Test_of_CAN_Applications.pdf)
+
+<a name="Canoe"></a>
 ## Lectures and Presentations
 
 [NorthSec 2015 - Eric Evenchick - Hopping on the CAN bus](https://www.youtube.com/watch?v=eoQO5TVKgSE)
